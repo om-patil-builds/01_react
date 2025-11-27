@@ -36,6 +36,7 @@ body
 
 Virtual Dom - ye real dom ki ek copy bana leta HAI sur reaload nahi hota hai
 
+
 **jsx -> HTML+Js 
 
 
@@ -52,6 +53,7 @@ jitne .jsx hai vahi components hai
 aap components banaate ho aur ye saare components jaate hai ek parent components par , aur parent components ko body mein put kar diya jaata hai
 
 //components ek function hai jo ki return karega jsx 
+components-> chhota sa piece of code jo particular website keliye used ho raha hai
 
 jsx html ki trah dikhne waala syntax but uske pass kuchh superpowers hai jo html ke pass nahi hai
 IN Html
