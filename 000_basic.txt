@@ -1,0 +1,63 @@
+1)create react folder - npm create vite
+
+2)project name:01_react
+3)cd: 01_react
+4)npm i
+5)npm run dev -> run karnya sathi
+
+
+*React is Js Library ->Used to make UI (fronted)
+*Made by meta (Facebook)
+
+Library-> Library used to give a particular feature to the particular website
+-GSAP - Animation Library
+-Lenis-Smooth scrolling
+-ReactJs- for Make Ui for particular website
+ex-> Ghar banana hai to plot kharidte hai aur apne hisab se ghar design kar sakte hai
+
+Framework -> agr hume sabkuchh ek hi form me inbuilt chahiye to
+-NextjS
+-vieJs
+-Angular
+ex->Directly banaya huaa ghar lena jisme hum jyada customization(changes) nahi karsakte
+
+import-export-> ek file se data dusri file me bhejane ka kaam karta hai
+import-export karne keliye hume humari html file me script me iska type batana padta hai module
+
+//Real Dom -> sirf ek element change karna ho to phirbhi pura reaload hota 
+hai EX- hum Fb scroll karrahe hai aur ek noti aai to uska count 1 karne keliye pura reaload karna padega
+HTML-1)head 2)body
+head-title
+body
+-header
+-section1 - h1 , image , button
+-section2
+-footer
+
+Virtual Dom - ye real dom ki ek copy bana leta HAI sur reaload nahi hota hai
+
+**jsx -> HTML+Js 
+
+
+node_modules- is se hume kuchh lena dena nahi hai ye o file folders hai jo humare react app ko chahiye chalne keliye
+
+public - for put img , videos , static data
+
+assests-> static data
+
+APP.jsx
+Main.jsx
+jitne .jsx hai vahi components hai
+
+aap components banaate ho aur ye saare components jaate hai ek parent components par , aur parent components ko body mein put kar diya jaata hai
+
+//components ek function hai jo ki return karega jsx 
+
+jsx html ki trah dikhne waala syntax but uske pass kuchh superpowers hai jo html ke pass nahi hai
+IN Html
+<h1>2+2<h1>
+2+2
+jsx
+<h1>{2+2}</h1> = <h1>4<h1>
+
+jsx is very similar to html with superpowers
